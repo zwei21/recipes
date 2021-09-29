@@ -1,6 +1,5 @@
 #Ingredients
--avocadi
--lemon
-salt
+- avocadi
+- salt
 #Instructions
 
